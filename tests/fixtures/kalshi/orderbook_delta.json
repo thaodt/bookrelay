@@ -1,0 +1,16 @@
+{
+  "type": "orderbook_delta",
+  "sid": 1,
+  "seq": 2,
+  "msg": {
+    "market_ticker": "KXIDNSLSPREAD-26NOV06YOGDEW-DEW4",
+    "market_id": "01a1b005-ce7d-7751-a01d-d909ee2b28ea",
+    "clock": 116081402561,
+    "price_dollars": "0.0500",
+    "delta_fp": "-9.00",
+    "side": "no",
+    "ts": "2026-11-06T08:43:43.682Z",
+    "ts_ms": 1793954623682
+  },
+  "sending_ts_ms": 1793954623687
+}

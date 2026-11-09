@@ -1,0 +1,21 @@
+{
+  "kind": "synthetic raw protocol fixtures derived from official schemas, not live captures",
+  "source": "https://docs.polymarket.com/asyncapi.json",
+  "source_sha256": "5f7f274554ba2295620e2e7065e1a24b083b0063b58e4b30aeb2cbf433714e28",
+  "schema_names": [
+    "BookEvent",
+    "OrderSummary",
+    "PriceChangeEvent",
+    "PriceChangeMessage"
+  ],
+  "notes": [
+    "asset_id is the instrument, market is the condition ID",
+    "size is new aggregate size, not a signed quantity change",
+    "book hash and price-change order hash are not a comparable sequence",
+    "no timestamp-to-sequence conversion"
+  ],
+  "fixtures": {
+    "price_change.json": "28683e22ea922a76020f8b5c75fd34a51174ab218105bf2042a90e99058e85c0",
+    "book.json": "8267aa0a2d857715e531e13fb416bda83598d92ab2b96384b428321e2487b14a"
+  }
+}

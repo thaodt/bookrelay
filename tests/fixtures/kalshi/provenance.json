@@ -1,0 +1,14 @@
+[
+  {
+    "file": "orderbook_snapshot.json",
+    "kind": "captured_public_market_data",
+    "received_at": "2026-11-06T08:43:43.730719+00:00",
+    "sha256": "1d98ddd954a5cd2e935ed0f59b54b3d05c946d0c180bc41b6b7c43f8c0d10263"
+  },
+  {
+    "file": "orderbook_delta.json",
+    "kind": "captured_public_market_data",
+    "received_at": "2026-11-06T08:43:43.791993+00:00",
+    "sha256": "c356fce0a667b8a8c21b1c515a728a3dffe759c5643ae4d1949ab2db218c6b38"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "type": "orderbook_snapshot",
+  "sid": 1,
+  "seq": 1,
+  "msg": {
+    "market_ticker": "KXIDNSLSPREAD-26NOV06YOGDEW-DEW4",
+    "market_id": "01a1b005-ce7d-7751-a01d-d909ee2b28ea",
+    "clock": 116081402138,
+    "no_dollars_fp": [
+      [
+        "0.0100",
+        "6.00"
+      ],
+      [
+        "0.0400",
+        "34.00"
+      ],
+      [
+        "0.0500",
+        "9.00"
+      ],
+      [
+        "0.0600",
+        "107.00"
+      ]
+    ]
+  },
+  "sending_ts_ms": 1793954623626
+}
